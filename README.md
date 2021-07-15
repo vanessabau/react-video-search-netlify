@@ -2,6 +2,9 @@
 
 YouTube video search that utilizes the Youtube API to look up and return a list of videos based on user input.
 
+## View deployed application:
+Visit [deployed React-YouTube-Video-Search link](https://jovial-jennings-b62f24.netlify.app/) 
+
 ## To run locally: 
 
 Clone the project from [Github repo](https://github.com/vanessabau/react-video-search-netlify), open folder with your code editor, open the package.json in terminal and run 
