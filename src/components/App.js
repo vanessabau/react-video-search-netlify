@@ -3,12 +3,13 @@ import SearchBar from "./SearchBar";
 import VideoList from "./VideoList";
 import youtube from "../apis/youtube";
 import VideoDetail from "./VideoDetail";
+import "../style.css";
 
 class App extends React.Component {
   state = { videos: [], selectedVideo: null };
 
   componentDidMount() {
-    this.onTermSubmit("buildings");
+    this.onTermSubmit("cats");
   }
 
   onTermSubmit = async (term) => {
@@ -33,7 +34,7 @@ class App extends React.Component {
 
   render() {
     return (
-      <div className="ui container">
+      <div className="ui container video-search__container">
         <SearchBar
           onFormSubmit={this.onTermSubmit}
         />
