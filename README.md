@@ -1,10 +1,10 @@
 # React YouTube Video Search
 
-Youtube video Search that utilizes the Youtube API to look up and return a list of videos based on user input.
+YouTube video search that utilizes the Youtube API to look up and return a list of videos based on user input.
 
 ## To run locally: 
 
-Clone the project from my Github repo, open folder with your code editor, in the project directory, run:
+Clone the project from [Github repo](https://github.com/vanessabau/react-video-search-netlify), open folder with your code editor, in the project directory, run:
 
 ### `npm start`
 
