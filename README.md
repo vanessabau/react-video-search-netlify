@@ -4,7 +4,10 @@ YouTube video search that utilizes the Youtube API to look up and return a list 
 
 ## To run locally: 
 
-Clone the project from [Github repo](https://github.com/vanessabau/react-video-search-netlify), open folder with your code editor, in the project directory, run:
+Clone the project from [Github repo](https://github.com/vanessabau/react-video-search-netlify), open folder with your code editor, open the package.json in terminal and run 
+### `npm install` 
+
+Then in the project directory, run:
 
 ### `npm start`
 
